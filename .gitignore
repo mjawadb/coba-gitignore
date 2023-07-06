@@ -1,0 +1,7 @@
+# jadi file file ini tidak akan terbawa saat proses git add dan commit
+
+config.txt
+# untuk folder
+data/
+# untuk semua file yang yang ekstensi nya .exe tidak akan terbawa
+*.exe 
